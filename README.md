@@ -1,2 +1,2 @@
-# PHP-Auth
-PHP Boilerplate with AdminLTE, user authentication, user management, user role management, and permissions management.
+# PhpAuth
+PHP boilerplate with authentication, user management, role management, account management, and permissions management.
